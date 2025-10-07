@@ -326,7 +326,7 @@ h2 {
 /*assurer que le contenu est au decu des images de fond*/
 .exposition-content {
   position: relative;
-  z-index: 2;
+  z-index: -1;
 }
 
 /*style pour le texte et les badges dans la section exposition*/
