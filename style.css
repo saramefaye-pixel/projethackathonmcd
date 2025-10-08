@@ -278,7 +278,7 @@ h2 {
 }
 
 .exposition {
-  background: linear-gradient(rgba(212, 162, 138, 0.85), rgba(92, 64, 51, 0.85));
+  background: linear-gradient(rgba(92, 64, 51, 0.85), rgba(92, 64, 51, 0.85));
   color: var(--blanc);
   text-align: center;
   border-radius: 20px;
